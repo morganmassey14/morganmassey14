@@ -1,7 +1,12 @@
-### Howdy, I'm Morgan 👋
-I am a Front End Developer | UI/UX Student at Nashville Software School
+### 👋 Howdy, I'm Morgan
 
-I love creating content that is functional _and_ aesthetically pleasing. These are some of my tools:  
+🌈 I am a Nashville based UI/UX Designer and Front End Developer.
+
+✨ You can see some of my work here, or by visitng my [portfolio](https://morganmassey14.github.io/).
+
+🎨 I love creating content that is functional _and_ aesthetically pleasing. 
+
+🔧 These are some of my tools:  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
